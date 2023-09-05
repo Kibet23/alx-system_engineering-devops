@@ -1,0 +1,2 @@
+#!/bin/bash
+./count_path_directories.sh
